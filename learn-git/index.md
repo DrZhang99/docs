@@ -247,7 +247,7 @@ git config --global alias. last 'log -1'
 ## About
 
 * 作者：张朝龙
-* GitHub: <https://github.com/chaolongzhang/>
+* GitHub: <https://github.com/DrZhang99>
 
 [1]: https://desktop.github.com/ 
 [2]: https://www.sourcetreeapp.com/         
